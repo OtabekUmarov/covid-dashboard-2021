@@ -1,0 +1,19 @@
+table {
+    font-weight: bold;
+    max-height: 1000px;
+}
+th {
+    position: sticky;
+    top: -2px;
+    background-color: white;
+}
+.bg-color {
+    background-color: #1ac266;
+}
+
+// th.sticky {
+//     position: fixed;
+//     top: 0;
+// 	// padding: 10px 0;
+// 	// background-color: crimson;
+// }
